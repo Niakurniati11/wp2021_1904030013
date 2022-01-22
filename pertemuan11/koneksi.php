@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$db   = 'wpsmt5';
+$db   = 'wpsmt5b';
 
 $con = mysqli_connect($host, $user, $pass, $db);
 
